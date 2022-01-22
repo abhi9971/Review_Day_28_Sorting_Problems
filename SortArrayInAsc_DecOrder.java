@@ -1,7 +1,7 @@
 package com.bridgelabz.review.sortingproblems;
 import java.util.*;
 
-public class SortArrayInAsc_DecOrder {
+public class SortArrayInAsc_DescOrder {
 
         static void printOrder(int[] arr, int n)
         {
